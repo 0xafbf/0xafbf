@@ -33,48 +33,48 @@ I did multiple experiences in Flash that I don’t have links to show, but mainl
 B. Personal Projects:
 ---------------------
 
-1. Game: BoliFrog, 2022, in development, Godot. https://instagram.com/bolifrog
+### 1. Game: BoliFrog, 2022, in development, Godot. https://instagram.com/bolifrog
 
 BoliFrog is a new take on traditional colombian game Bolirana. It plays similar to american game Skeeball, but our version of bolirana has score tracking with new rulesets, ability to choose characters and play different gamemodes in teams or free for all.
 
 BoliFrog connects to the arcade machine hardware, it detects the player's scored balls, and other physical buttons to configure the game mode. It also connects to a RBG LED strip to give feedback to the player beyond the game screen.
 
 
-2. Game: SkyForce, 2023, in development, Godot.
+### 2. Game: SkyForce, 2023, in development, Godot.
 
 Skyforce is a prototype for a RC drone and airplane simulator. We intend to make it a platform that serves many players. Starting from intruducing and training pilots that are just getting in the field, up to collectors that would like to have their digital collection of beautifully crafted models, and also for competitive players that want to put their skills to test with other players.
 
 
-3. Game: Rootarium, for GGJ2023, Godot. https://kichex.itch.io/rootarium
+### 3. Game: Rootarium, for GGJ2023, Godot. https://kichex.itch.io/rootarium
 
 Rootarium is a cozy 2D pixel art game made for Global Game Jam 2023. The jam theme was “Roots”
 
 
-4. Game: Saphi y el llamado de la tierra, 2023. Unity. https://saphiland.itch.io/saphi-y-el-llamado-de-la-tierra 
+### 4. Game: Saphi y el llamado de la tierra, 2023. Unity. https://saphiland.itch.io/saphi-y-el-llamado-de-la-tierra 
 
 Saphi and the Call of Nature is a game about exploring agricultural heritage in Colombia. You play as a capybara, Saphi, to find the ways of the extinct human race for growing food and working in community to get to peace and abundance. This game applied for government funding in Colombia,
 
-5. Game: BoomTown, for Gamedev Colombia Jam 2020. Godot. https://kichex.itch.io/boomtown 
+### 5. Game: BoomTown, for Gamedev Colombia Jam 2020. Godot. https://kichex.itch.io/boomtown 
 
 Boomtown is a 3D game made in Godot for a game jam. The theme for the jam was “Chain Reaction”
 
 
-6. Plugin: Blender Datasmith Exporter, 2020, Blender, Python: https://0xafbf.gumroad.com/l/blender-datasmith-content
+### 6. Plugin: Blender Datasmith Exporter, 2020, Blender, Python: https://0xafbf.gumroad.com/l/blender-datasmith-content
 
 Datasmith Blender Exporter is a plugin that lets you export full scenes from Blender to Unreal Engine using Datasmith format. This exporter lets you transfer full scenes, including scene hierarchy, instanced static meshes, textures and materials with complex node setups, and meshes with modifiers.
 
 
-7. App: AB Launcher. in development. 2023. Godot.
+### 7. App: AB Launcher. in development. 2023. Godot.
 
 Interface that lets you launch games and see information for many games in a database. This is part of a large project that intends to showcase many games made in Colombia.
 
 
-8. Tools: AB Tools. 2023. Bash and Powershell.
+### 8. Tools: AB Tools. 2023. Bash and Powershell.
 
 Series of tools made to automate repetitive tasks around game development and publishing. Simplifies the handling of project versioning and engine version management when building games in Unity and Godot.
 
 
-9. App: Bemote, iOS, Windows, Mac 2012: https://www.youtube.com/watch?v=FtamROcbz6o
+### 9. App: Bemote, iOS, Windows, Mac 2012: https://www.youtube.com/watch?v=FtamROcbz6o
 
 This was a iOS application that allowed you to control a computer’s volume level. It used Bonjour (mDNS + DNS-SD) to discover computers in the same network. It required a separate helper app. It was done with native development for the platforms it was available (Objective-C for iOS app and Mac helper, C# for Windows)
 
